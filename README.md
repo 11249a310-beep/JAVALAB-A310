@@ -1,10 +1,10 @@
 # JAVA PROGRAMMING LAB
 
-Name            : PUJARI HEMESH
+Name            : RAJAMPETA MASTHANVALLI
 
 
 
-Register Number : 11249A300
+Register Number : 11249A310
 
 
 
